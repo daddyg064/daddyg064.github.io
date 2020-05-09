@@ -2,9 +2,9 @@
 [![star this repo](https://githubbadges.com/star.svg?user=codedotspectra&repo=themes&style=default&color=fff&background=1a75ff)](https://github.com/codedotspectra/themes)
 [![fork this repo](https://githubbadges.com/fork.svg?user=codedotspectra&repo=themes&style=default&color=fff&background=1a75ff)](https://github.com/codedotspectra/themes/fork)
 
-All the themes/mini-themes/tools i made for Discord.
+All the themes/mini-themes/tools Spectra made for Discord.
 
-help me to make my themes even better! Join the discord server!
+help Spectra to make my themes even better! Join the discord server!
 Suggestions and bugs reports are welcome
 
 Discord server invite : https://discord.gg/PZdnCVD
